@@ -1,0 +1,1 @@
+import"./app-C3PXmaM_.js";function m(o,t="en-US"){const e=new Date(o),i={weekday:"short",day:"2-digit",month:"short",year:"numeric"},n={hour:"2-digit",minute:"2-digit",second:"2-digit",hour12:t!="fr-FR"},r=e.toLocaleDateString(t,i),a=e.toLocaleTimeString(t,n);return`${r} at ${a}`}export{m as f};

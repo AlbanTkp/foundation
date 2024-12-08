@@ -1,0 +1,1 @@
+import{j as s}from"./app-C3PXmaM_.js";function p({full:e=!1,lang:l="EN",className:o="",...r}){return l.toLocaleUpperCase()=="FR"?s.jsx("img",{src:"/images/logo_fr.png",className:"rounded-full "+o,alt:""}):s.jsx("img",{src:"/images/logo_en.png",className:"rounded-full "+o,alt:""})}export{p as A};
