@@ -3,6 +3,7 @@ start.py
 /bootstrap/ssr
 /node_modules
 # /public/build
+/composer.lock
 /public_html/hot
 /public_html/storage
 /storage/*.key
